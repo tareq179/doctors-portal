@@ -3,7 +3,7 @@
 # **Dental Care**
 
 <a  href="https://my-gerez.web.app/">
-<img  width="100%"  height="100%"  src="https://i.ibb.co/kg8DWn9/Gerez.png"/>
+<img  width="100%"  height="100%"  src="https://i.ibb.co/8zcPJTs/project2.jpg"/>
 </a>
 
 ## About & Features
