@@ -27,6 +27,6 @@
 
 <hr/>
 
-**[Back-end Repository](https://github.com/tareq179/doctors-portal-server)**
+**[Back-end Repository](https://github.com/tareq179/doctors-portald-server)**
 
 <hr/>
